@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/antoinezaz/angular-dropzone#readme",
   "dependencies": {
-    "dropzone": "~3.10.2"
+    "dropzone": "~3.11.0"
   }
 }
